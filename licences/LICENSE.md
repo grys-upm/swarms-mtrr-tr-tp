@@ -9,7 +9,6 @@ under a dual license scheme:
                      version 3 of the License, or (at your option) any
                      later version.
 
-
 - For any other use: Licensed under the Apache License, Version 2.0.
 
 Parts copyrighted by DEMANES are distributed under the Apache License, Version 2.0.
