@@ -21,7 +21,7 @@ It has three main components:
 ![image](https://user-images.githubusercontent.com/13553876/197519395-3bc4b74b-c8a7-4797-990a-053a1e10b815.png)
 
 # Technology Readiness Level (TRL)
-This software has reached a TRL 7: System prototype demonstration in operational environment ([EU definition](https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-g-trl_en.pdf))
+This software has reached a TRL 7: System prototype demonstration in operational environment ([EU definition](https://ec.europa.eu/research/participants/data/ref/h2020/wp/2014_2015/annexes/h2020-wp1415-annex-g-trl_en.pdf)).
 
 # Usage
 ## Requirements
